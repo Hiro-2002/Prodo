@@ -4,6 +4,9 @@
 
 The Prodo is designed to help users stay organized and manage their tasks efficiently. The project is built with Django for the backend and follows best practices from [Two Scoops of Django: Best Practices for Django by Audrey Roy](https://www.amazon.com/Two-Scoops-Django-Best-Practices/dp/0981467342) to ensure clean, maintainable, and secure code.
 
+## Technologies
+Django, PostgreSQL, Redis
+
 
 ## Installation
 
