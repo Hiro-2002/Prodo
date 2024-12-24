@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'prodo.profiles',
+    'prodo.todos',
 ]
 
 
