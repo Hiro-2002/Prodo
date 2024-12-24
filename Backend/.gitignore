@@ -11,6 +11,4 @@ wheels/
 
 
 # Secret
-config/settings.py
-.env.development
-.env.production
+.env
