@@ -12,4 +12,5 @@ dependencies = [
     "django-environ>=0.11.2",
     "djangorestframework-simplejwt>=5.3.1",
     "pillow>=11.0.0",
+    "django-redis>=5.4.0",
 ]

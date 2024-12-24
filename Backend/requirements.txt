@@ -3,5 +3,6 @@ djangorestframework
 django-cors-headers
 django-environ
 djangorestframework-simplejwt
+django-redis
 psycopg2
 Pillow
